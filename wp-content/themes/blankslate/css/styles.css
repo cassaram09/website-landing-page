@@ -61,17 +61,17 @@ form {
 
 .content {
   margin: 40px 0px;
-  border:;
 }
 
 .about {
-  
+  margin-top: 80px;
 }
 
 .about p{
   padding: 9px;
   width: 75%;
   margin: 0 auto;
+
   font-size: 20px;
   font-weight: 300;
 }
