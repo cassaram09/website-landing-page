@@ -2,7 +2,7 @@ body {
   background-color: #1CA8FF;
   color: white;
   text-align: center;
-  font-family: "Lato";
+  font-family: "Montserrat";
 }
 
 .container {
@@ -71,7 +71,7 @@ form {
   padding: 9px;
   width: 75%;
   margin: 0 auto;
-
+  font-family: "Lato"
   font-size: 20px;
   font-weight: 300;
 }

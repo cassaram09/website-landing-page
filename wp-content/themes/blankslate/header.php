@@ -11,6 +11,7 @@
     <meta name="description" content="The HTML5 Herald">
     <meta name="author" content="Dark Square Bishop">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" type="text/css" href="css/simplegrid.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
