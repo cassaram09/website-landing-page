@@ -12,9 +12,9 @@
     <meta name="author" content="Dark Square Bishop">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="css/simplegrid.css">
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/simplegrid.css">
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/styles.css">
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
